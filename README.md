@@ -32,7 +32,9 @@ Connecting to host chefserver:443
 Successfully verified certificates from `chefserver'
 
 When you are done try a 
+
 knife node list
+
 
 knife node list
 client-1-dhcp.yourcompany.com
