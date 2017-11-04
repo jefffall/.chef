@@ -14,8 +14,7 @@ to /etc/hosts like below:
 
 
 127.0.0.1       localhost
-255.255.255.255 broadcasthost
-::1             localhost
+
 10.216.38.216   chefserver
 
 Becuase I am running my chef server on a Macbook Pro under Virtualbox and my local netowrk will give me a local IP address for
