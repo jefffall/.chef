@@ -12,12 +12,7 @@ if you click reset key you will get a new user key. Copy this and make it your u
 You will need to create a trusted_certs directory if your chefserver is not in DNS. I named my chefserver chefserver and I put it in 
 to /etc/hosts like below:
 
-#
-# Host Database
-#
-# localhost is used to configure the loopback interface
-# when the system is booting.  Do not change this entry.
-#
+
 127.0.0.1       localhost
 255.255.255.255 broadcasthost
 ::1             localhost
